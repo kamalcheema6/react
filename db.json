@@ -1,5 +1,5 @@
 {
   "posts": [
-    { "name": 'kamal', "email": "kamal@mailinator.com", "password": "123456", "bname": "Test", "gstnumber" : "ABC123" }
+    { "name": "kamal", "email": "kamal@mailinator.com", "password": "123456", "bname": "Test", "gstnumber" : "ABC123" }
   ]
 }
